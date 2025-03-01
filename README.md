@@ -72,11 +72,11 @@ print("Predicted Class:", final_prediction)
 
 ## 📂 Files in This Repository
 
-- `` → Main Jupyter Notebook for training, evaluating, and saving the model.
-- `` → Saved trained logistic regression model.
-- `` → Saved standard scaler for preprocessing test data.
-- `` → Saved per-class optimal thresholds.
-- `` → List of dependencies required to run the project.
+- `digits_classifier_notebook` → Main Jupyter Notebook for training, evaluating, and saving the model.
+- `logistic_regression_multiclass.pkl` → Saved trained logistic regression model.
+- `scaler.pkl` → Saved standard scaler for preprocessing test data.
+- `optimal_thresholds.json` → Saved per-class optimal thresholds.
+- `requirements.txt` → List of dependencies required to run the project.
 
 ## 📜 License
 
