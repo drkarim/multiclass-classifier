@@ -1,3 +1,7 @@
 numpy
 matplotlib
 scikit-learn
+pickle 
+pillow 
+opencv-python 
+streemlit
